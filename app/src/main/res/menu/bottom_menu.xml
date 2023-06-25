@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/menu_navigation_grid___1529_"
+        android:title="Home">
+    </item>
+    <item
+        android:id="@+id/services"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/video_player_campaign_youtube_svgrepo_com"
+        android:title="Videos">
+    </item>
+    <item
+        android:id="@+id/holder"
+        app:showAsAction="ifRoom"
+        android:enabled="false"
+        android:title="">
+    </item>
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/baseline_bookmark_remove_24"
+        app:showAsAction="ifRoom"
+        android:title="Saved">
+    </item>
+    <item
+        android:id="@+id/favourite"
+        android:icon="@drawable/baseline_person_24"
+        app:showAsAction="ifRoom"
+        android:title="User">
+    </item>
+</menu>

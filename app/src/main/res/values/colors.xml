@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_theme">#66B8AE</color>
+    <color name="grey">#AFB2B6</color>
+    <color name="grey_theme">#FAFAFA</color>
+    <color name="blue">#4371E8</color>
+    <color name="black_overlay">#000000</color>
+    <color name="orange">#CC5500</color>
+    <color name="green">#00C853</color>
+    <color name="green_theme">#CDFBE0</color>
+    <color name="DarkGray">#DEE1E6</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Yellow_theme">#F3F3C2</color>
+    <color name="white_t">#E0FFFFFF</color>
+    <color name="no_show">#FFB71C1C</color>
+    <color name="light_red">#D37272</color>
+    <color name="light_red_categories">#FF5858</color>
+
+    <color name="light_theme">#EFBFBF</color>
+
+    <color name="red">#FFFF0000</color>
+    <color name="lightGrey">#FFF7F5</color>
+    <color name="blue_theme">#CCEAF4</color>
+    <color name="light_blue_theme">#F4FCFF</color>
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00ceb4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cardColor">#ffffff</color>
+    <color name="textcardColor">#3f3f3f</color>
+</resources>
