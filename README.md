@@ -14,8 +14,8 @@
 ## Techniques
 RecycleView, ToolBar, CardView, Volley, Json, ListView, NestedScroll, DrawerLayout, ActionBarDrawerToggle, Floating Action Button, Fragments, Fetching Current Geolocation.
 
-## Develeped By
-* Auther : Aman Pandey
+## Developed By
+* Author : Aman Pandey
 * Email  : amanpandey12398@gmail.com
 
 Here are some screenshots of app
